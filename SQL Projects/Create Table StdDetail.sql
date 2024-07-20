@@ -1,0 +1,2 @@
+-- Create Table StudentDetail ( RollNo int Not Null, SName char(255) Not Null, Address char(255), CellNo varchar(30), 
+-- DOB Date ) 
